@@ -1,8 +1,6 @@
 ## Noora AlHammadi
 
-You can use the [editor on GitHub](https://github.com/NooraAlhammadi/digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A full-time student at United Arab Emirates university specialized in computer science in the IT college with a GPA 3.8 and it is my last year in the university. Interested in learning, exploring new technologies and working with a team that empowers me.
 
 ### Markdown
 
